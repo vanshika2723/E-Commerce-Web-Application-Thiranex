@@ -484,9 +484,7 @@ The interface includes responsive navigation, cards, tables, forms, dashboards, 
 
 **Full Stack / MERN Stack Developer**
 
-GitHub: **YOUR_GITHUB_PROFILE**
 
-LinkedIn: **YOUR_LINKEDIN_PROFILE**
 
 ---
 
@@ -494,8 +492,4 @@ LinkedIn: **YOUR_LINKEDIN_PROFILE**
 
 If you like this project, consider giving it a ⭐ on GitHub.
 
----
 
-## 📄 License
-
-This project is created for **learning, development, and portfolio purposes**.
